@@ -3,6 +3,10 @@
 }
 
 h1 {
-    color:darkslateblue;
+    color:rgb(104, 87, 219);
 }
 
+.main-content p {
+    font-size: larger;
+    
+}
